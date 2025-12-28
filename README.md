@@ -283,7 +283,6 @@ python validate_data.py
 ┣ 📄 README.md                   # You are here! 📍
 ```
 
-**Code Stats:** ~1,000 lines • 9 files • 30+ functions • Each page < 120 lines
 
 ---
 
