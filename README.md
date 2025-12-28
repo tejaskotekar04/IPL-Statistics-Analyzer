@@ -454,7 +454,7 @@ Contributions make the open-source community amazing! Any contributions are **gr
 
 **Special Thanks To:**
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set) • Dataset Provider
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020) • Dataset Provider
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/) • Framework
 
