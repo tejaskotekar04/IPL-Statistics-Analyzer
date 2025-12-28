@@ -495,7 +495,7 @@ Contributions make the open-source community amazing! Any contributions are **gr
 
 ---
 
-**Built with ❤️ for Cricket by [Your Name](https://github.com/tejaskotekar04)**
+**Built by [Tejas Kotekar](https://github.com/tejaskotekar04)**
 
 *Bringing statistical analysis to the gentleman's game* 🏏
 
