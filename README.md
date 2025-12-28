@@ -7,13 +7,12 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+**[Report Bug](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues) • [Request Feature](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues)**
 
-**[Report Bug](https://github.com/YOUR_USERNAME/ipl-statistics-analyzer/issues) • [Request Feature](https://github.com/YOUR_USERNAME/ipl-statistics-analyzer/issues)**
+![IPL Dashboard Preview](https://tejaskotekar04-ipl-statistics-analyzer-app-kwqbvw.streamlit.app/)
 
-![IPL Dashboard Preview](https://via.placeholder.com/800x400/FF6B35/FFFFFF?text=IPL+Statistics+Dashboard)
-
-*Interactive analytics platform for cricket enthusiasts and analysts*
+*Interactive analysis platform for cricket enthusiasts and analysts*
 
 </div>
 
@@ -113,11 +112,11 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/ipl-statistics-analyzer.git
+git clone https://github.com/tejaskotekar04/ipl-statistics-analyzer.git
 cd ipl-statistics-analyzer
 
-# 2️⃣ Install dependencies (Only 2!)
-pip install streamlit pandas
+# 2️⃣ Install dependencies (Only 3!)
+pip install streamlit pandas numpy
 
 # 3️⃣ Download dataset (see below ⬇️)
 
@@ -179,6 +178,7 @@ python validate_data.py
 |:----------:|:-------:|:----:|
 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | Web Framework | Rapid development, native charts |
 | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Data Analysis | Powerful cricket statistics processing |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | Computing | Fast numerical operations |
 
 </div>
 
@@ -277,7 +277,7 @@ python validate_data.py
 ┣ 📄 analysis.py                 # Analysis functions (394 lines)
 ┣ 📄 visualizations.py           # Chart functions (95 lines)
 ┣ 📄 validate_data.py            # Data validation (114 lines)
-┣ 📄 requirements.txt            # Dependencies (2 only!)
+┣ 📄 requirements.txt            # Dependencies (only 3)
 ┣ 📄 README.md                   # You are here! 📍
 ```
 
@@ -458,6 +458,8 @@ Contributions make the open-source community amazing! Any contributions are **gr
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) • Data Processing
 
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) • Numerical Computing
+
 **IPL & BCCI** • For the amazing tournament
 
 </div>
@@ -470,7 +472,7 @@ Contributions make the open-source community amazing! Any contributions are **gr
 
 **Learn More:**
 
-[Streamlit Docs](https://docs.streamlit.io/) • [Pandas Guide](https://pandas.pydata.org/docs/) • [Cricket Analytics](https://www.espncricinfo.com/)
+[Streamlit Docs](https://docs.streamlit.io/) • [Pandas Guide](https://pandas.pydata.org/docs/) • [NumPy Documentation](https://numpy.org/doc/) • [Cricket Analytics](https://www.espncricinfo.com/)
 
 </div>
 
@@ -482,13 +484,13 @@ Contributions make the open-source community amazing! Any contributions are **gr
 
 **If you're a cricket fan or find this project useful, please give it a star!**
 
-[![Star](https://img.shields.io/github/stars/YOUR_USERNAME/ipl-statistics-analyzer?style=social)](https://github.com/tejaskotekar04/ipl-statistics-analyzer)
+[![Star](https://img.shields.io/github/stars/tejaskotekar04/ipl-statistics-analyzer?style=social)](https://github.com/tejaskotekar04/ipl-statistics-analyzer)
 
 ---
 
 ### 🏏 Ready to analyze IPL cricket data?
 
-**[Get Started Now](#-quick-start) • [View Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set) • [Report Issues](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues)**
+**[Get Started Now](#-quick-start) • [View Dataset](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020) • [Report Issues](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues)**
 
 ---
 
