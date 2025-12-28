@@ -193,7 +193,7 @@ python validate_data.py
 
 ### 🏏 IPL Complete Dataset (2008-2024)
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
 
 **1M+ ball deliveries • 1,000+ matches • 17 years of cricket**
 
