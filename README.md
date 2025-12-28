@@ -278,9 +278,7 @@ python validate_data.py
 ┣ 📄 visualizations.py           # Chart functions (95 lines)
 ┣ 📄 validate_data.py            # Data validation (114 lines)
 ┣ 📄 requirements.txt            # Dependencies (2 only!)
-┣ 📄 .gitignore                  # Git ignore rules
 ┣ 📄 README.md                   # You are here! 📍
-┗ 📄 LICENSE                     # MIT License
 ```
 
 **Code Stats:** ~1,000 lines • 9 files • 30+ functions • Each page < 120 lines
@@ -430,31 +428,19 @@ Contributions make the open-source community amazing! Any contributions are **gr
 
 ---
 
-## 📄 License
-
-<div align="center">
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
-</div>
-
----
-
 ## 📧 Contact & Support
 
 <div align="center">
 
 ### 💬 Get in Touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejaskotekar04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-kotekar-0302b6227/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaskotekar04@gmail.com)
 
 **Questions? Suggestions? Found a bug?**
 
-[Open an Issue](https://github.com/YOUR_USERNAME/ipl-statistics-analyzer/issues)
+[Open an Issue](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues)
 
 </div>
 
@@ -496,19 +482,19 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 **If you're a cricket fan or find this project useful, please give it a star!**
 
-[![Star](https://img.shields.io/github/stars/YOUR_USERNAME/ipl-statistics-analyzer?style=social)](https://github.com/YOUR_USERNAME/ipl-statistics-analyzer)
+[![Star](https://img.shields.io/github/stars/YOUR_USERNAME/ipl-statistics-analyzer?style=social)](https://github.com/tejaskotekar04/ipl-statistics-analyzer)
 
 ---
 
 ### 🏏 Ready to analyze IPL cricket data?
 
-**[Get Started Now](#-quick-start) • [View Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set) • [Report Issues](https://github.com/YOUR_USERNAME/ipl-statistics-analyzer/issues)**
+**[Get Started Now](#-quick-start) • [View Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set) • [Report Issues](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues)**
 
 ---
 
-**Built with ❤️ for Cricket by [Your Name](https://github.com/YOUR_USERNAME)**
+**Built with ❤️ for Cricket by [Your Name](https://github.com/tejaskotekar04)**
 
-*Bringing data analytics to the gentleman's game* 🏏
+*Bringing statistical analysis to the gentleman's game* 🏏
 
 ---
 
