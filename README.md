@@ -274,6 +274,7 @@ python validate_data.py
 ┃ ┣ 📄 team_analysis.py         # Team performance (112 lines)
 ┃ ┣ 📄 match_insights.py        # Match analytics (83 lines)
 ┃ ┗ 📄 compare_players.py       # Player comparison (76 lines)
+┣ 📄 .gitignore                  # Git ignore rules
 ┣ 📄 app.py                      # Home dashboard (106 lines)
 ┣ 📄 analysis.py                 # Analysis functions (394 lines)
 ┣ 📄 visualizations.py           # Chart functions (95 lines)
