@@ -138,7 +138,7 @@ streamlit run app.py
 
 **Step-by-step:**
 
-1. 🔗 **Visit Kaggle**: [IPL Complete Dataset (2008-2024)](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+1. 🔗 **Visit Kaggle**: [IPL Complete Dataset (2008-2024)]((https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020))
 2. 📥 **Download** the dataset (free Kaggle account required)
 3. 📂 **Extract** the ZIP file - you'll get 2 CSV files:
    - `matches.csv` - Match-level data
