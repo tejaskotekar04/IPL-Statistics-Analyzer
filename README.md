@@ -11,7 +11,7 @@
 
 **[Report Bug](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues) • [Request Feature](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues)**
 
-![IPL Dashboard Preview](https://tejaskotekar04-ipl-statistics-analyzer-app-kwqbvw.streamlit.app/)
+[IPL Dashboard Preview](https://tejaskotekar04-ipl-statistics-analyzer-app-kwqbvw.streamlit.app/)
 
 *Interactive analysis platform for cricket enthusiasts and analysts*
 
