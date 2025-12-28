@@ -8,6 +8,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+
 **[Report Bug](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues) • [Request Feature](https://github.com/tejaskotekar04/ipl-statistics-analyzer/issues)**
 
 ![IPL Dashboard Preview](https://tejaskotekar04-ipl-statistics-analyzer-app-kwqbvw.streamlit.app/)
